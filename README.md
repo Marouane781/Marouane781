@@ -1,9 +1,17 @@
-<h1 align="center">👋 Salut, moi c'est Marouane Youssoufi</h1>
-<h3 align="center">💻 Étudiant en BUT Informatique | Futur Ingénieur</h3>
+<h1 align="center">👋 Marouane Youssoufi</h1>
+
+<h3 align="center">💻 Étudiant en Informatique | 🚀 Futur Ingénieur | 🔍 Recherche Alternance 2026</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Full+Stack+Developer;BUT+Informatique;Recherche+Alternance+2026;Motivé+et+Ambitieux+🚀" />
+</p>
+
+<p align="center">
+  <a href="https://marouane-youssoufi.fr/">
+    <img src="https://img.shields.io/badge/Portfolio-Visiter-000?style=for-the-badge&logo=vercel">
+  </a>
   <a href="https://www.linkedin.com/in/marouane-youssoufii">
-    <img src="https://img.shields.io/badge/LinkedIn-Marouane-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Profil-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:marouane.youssoufi@outlook.fr">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
@@ -12,91 +20,87 @@
 
 ---
 
-## 🧠 À propos de moi
+## 🧠 Profil
 
-- 🎓 BUT Informatique à Vélizy  
-- 🚀 Recherche alternance (2026 – 3 ans)  
-- 💡 Passionné par dev, systèmes & business  
-- 📍 Les Mureaux (78)  
+🎓 Étudiant en BUT Informatique à l’IUT de Vélizy  
+🚀 Recherche une alternance de 3 ans à partir de septembre 2026  
+💡 Intéressé par le développement logiciel, web et les systèmes  
+📍 Basé en Île-de-France (78)  
+
+👉 Profil sérieux, autonome, avec une forte capacité d’apprentissage et une vraie motivation pour évoluer vers un poste d’ingénieur.
 
 ---
 
-## ⚡ Tech Stack
+## 🌐 Portfolio
+
+🔗 **https://marouane-youssoufi.fr/**  
+
+Mon portfolio regroupe mes projets, mes compétences et mes réalisations techniques.  
+Il permet d’avoir une vision concrète de mon travail, de mon niveau technique et de ma progression.  
+
+👉 C’est le meilleur moyen de découvrir mes projets en détail.
+
+---
+
+## ⚡ Compétences techniques
 
 ### 💻 Langages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,php" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,php,sql" />
 </p>
 
-### 🌐 Web
+### 🌐 Développement Web
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### ⚙️ Tools & Systèmes
+### ⚙️ Systèmes & Outils
 <p>
   <img src="https://skillicons.dev/icons?i=linux,bash,apache,mysql,git" />
 </p>
 
 ---
 
-## 🚀 Projets
+## 🚀 Projets principaux
 
-### 🖥️ Application gestion parc informatique
-- App web en équipe  
-- SQL + UML  
-- Gestion matériel  
+### 🖥️ Application de gestion de parc informatique
+- Développement d’une application web en équipe  
+- Gestion d’équipements informatiques pédagogiques  
+- Modélisation UML + base de données SQL  
 
-### 📊 Base de données vidéo
-- Conception relationnelle  
-- Implémentation SQL  
+### 📊 Conception de base de données
+- Création d’une base relationnelle complète  
+- Structuration et exploitation des données  
 
-### 🐧 Administration Linux
-- Installation CentOS  
-- VM + configuration  
+### 🐧 Administration système Linux
+- Installation et configuration de systèmes (CentOS)  
+- Travail en environnement virtualisé  
 
 ---
 
-## 💼 Expérience
+## 💼 Expériences professionnelles
 
-**💻 Développeur Web – Easy Net Store (2026)**  
-- Front-end + amélioration code  
-- Travail en équipe  
+### 💻 Développeur Web — Easy Net Store (2026)
+- Développement et amélioration de fonctionnalités web  
+- Intégration front-end  
+- Collaboration avec une équipe technique  
 
-**🖥️ Technicien IT – Mairie des Mureaux (2020)**  
-- Installation postes  
+### 🖥️ Technicien Informatique — Mairie des Mureaux (2020)
+- Installation et configuration de postes  
+- Déploiement de logiciels  
 - Support utilisateurs  
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Objectif professionnel
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marouane781&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marouane781&theme=tokyonight" />
-</p>
+🎯 Intégrer une école d’ingénieur en informatique en alternance  
+🎯 Développer des compétences solides en développement et architecture logicielle  
+🎯 Contribuer à des projets concrets en entreprise  
 
 ---
 
-## 📈 Objectif
+## 🧠 Méthode de travail
 
-🎯 Devenir ingénieur informatique  
-🎯 Monter en compétences en développement  
-🎯 Construire des projets concrets  
-
----
-
-## ☕ Support
-
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Support-Me-orange?style=for-the-badge&logo=buymeacoffee">
-  </a>
-</p>
-
----
-
-<p align="center">🔥 Toujours en train de coder et d’apprendre</p>
+```bash
+analyser → concevoir → développer → tester → améliorer
