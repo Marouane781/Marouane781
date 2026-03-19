@@ -3,7 +3,7 @@
 <h3 align="center">💻 Étudiant en Informatique | 🚀 Futur Ingénieur | 🔍 Recherche Alternance 2026</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Full+Stack+Developer;BUT+Informatique;Recherche+Alternance+2026;Motivé+et+Ambitieux+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=BUT+Informatique;Recherche+Alternance+2026;Motivé+et+Ambitieux+🚀" />
 </p>
 
 <p align="center">
