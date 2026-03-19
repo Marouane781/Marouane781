@@ -56,7 +56,8 @@ Il permet d’avoir une vision concrète de mon travail, de mon niveau technique
 
 ### ⚙️ Systèmes & Outils
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,apache,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,mysql,git" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
 </p>
 
 ---
