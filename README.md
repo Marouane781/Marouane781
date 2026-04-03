@@ -1,107 +1,159 @@
-<h1 align="center">👋 Marouane Youssoufi</h1>
+<h1 align="center">👋 Salut, moi c'est Marouane Youssoufi</h1>
 
-<h3 align="center">💻 Étudiant en Informatique | 🚀 Futur Ingénieur | 🔍 Recherche Alternance 2026</h3>
+<h3 align="center">
+💻 Étudiant en Informatique | 🔐 Futur Ingénieur Réseaux & Sécurité | 🚀 Recherche Alternance 2026
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=BUT+Informatique;Recherche+Alternance+2026;Motivé+et+Ambitieux+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=BUT+Informatique;Futur+élève+ingénieur+EFREI;Alternance+2026+-+Réseaux+%26+Cybersécurité;Toujours+motivé+pour+apprendre+🚀" />
 </p>
 
 <p align="center">
-  <a href="https://marouane-youssoufi.fr/">
-    <img src="https://img.shields.io/badge/Portfolio-Visiter-000?style=for-the-badge&logo=vercel">
+  <a href="https://marouane-youssoufi.fr">
+    <img src="https://img.shields.io/badge/Portfolio-Visiter-000?style=for-the-badge&logo=vercel" />
   </a>
   <a href="https://www.linkedin.com/in/marouane-youssoufii">
-    <img src="https://img.shields.io/badge/LinkedIn-Profil-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Profil-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:marouane.youssoufi@outlook.fr">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
-## 🧠 Profil
+# 🧠 À propos de moi
 
-🎓 Étudiant en BUT Informatique à l’IUT de Vélizy  
-🚀 Recherche une alternance de 3 ans à partir de septembre 2026  
-💡 Intéressé par le développement logiciel, web et les systèmes  
-📍 Basé en Île-de-France (78)  
+🎓 Étudiant en **BUT Informatique** à l’IUT de Vélizy  
+🎯 Futur étudiant ingénieur à **EFREI Paris – Réseaux & Sécurité**  
+🚀 Recherche une **alternance de 3 ans à partir de septembre 2026**  
+📍 Basé en **Île-de-France (Yvelines – 78)**  
 
-👉 Profil sérieux, autonome, avec une forte capacité d’apprentissage et une vraie motivation pour évoluer vers un poste d’ingénieur.
+Passionné par l’informatique, je m’intéresse particulièrement à :
 
----
+- 🔐 la cybersécurité
+- 🌐 les réseaux et systèmes
+- 💻 le développement logiciel et web
+- 🐧 l’administration Linux
+- 🗄️ les bases de données
 
-## 🌐 Portfolio
-
-🔗 **https://marouane-youssoufi.fr/**  
-
-Mon portfolio regroupe mes projets, mes compétences et mes réalisations techniques.  
-Il permet d’avoir une vision concrète de mon travail, de mon niveau technique et de ma progression.  
-
-👉 C’est le meilleur moyen de découvrir mes projets en détail.
+J’aime travailler sur des projets concrets mêlant **technique, architecture et résolution de problèmes**.
 
 ---
 
-## ⚡ Compétences techniques
+# 🌐 Portfolio
 
-### 💻 Langages
+🔗 **https://marouane-youssoufi.fr**
+
+Mon portfolio présente :
+
+- mes projets académiques
+- mes réalisations techniques
+- mes compétences
+- mon évolution vers le métier d’ingénieur
+
+---
+
+# ⚡ Stack technique
+
+## 💻 Langages
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,c,php,sql" />
 </p>
 
-### 🌐 Développement Web
+## 🌐 Développement Web
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php" />
 </p>
 
-### ⚙️ Systèmes & Outils
+## 🗄️ Base de données
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+## 🐧 Systèmes & Réseaux
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,git" />
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Virtualisation-grey?style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 Projets principaux
+# 🚀 Projets principaux
 
-### 🖥️ Application de gestion de parc informatique
-- Développement d’une application web en équipe  
-- Gestion d’équipements informatiques pédagogiques  
-- Modélisation UML + base de données SQL  
+## 🖥️ Application web de gestion de parc informatique
 
-### 📊 Conception de base de données
-- Création d’une base relationnelle complète  
-- Structuration et exploitation des données  
+Développement d’une application Full Stack permettant :
 
-### 🐧 Administration système Linux
-- Installation et configuration de systèmes (CentOS)  
-- Travail en environnement virtualisé  
+- la gestion d’équipements pédagogiques
+- l’authentification multi-rôles
+- la gestion SQL des données
+- la modélisation UML
+- le déploiement sur environnement Linux / Apache
 
----
+## 🗄️ Conception de base de données relationnelle
 
-## 💼 Expériences professionnelles
+- modélisation MCD / UML
+- SQL / PL-SQL
+- requêtes complexes
+- optimisation de structure de données
 
-### 💻 Développeur Web — Easy Net Store (2026)
-- Développement et amélioration de fonctionnalités web  
-- Intégration front-end  
-- Collaboration avec une équipe technique  
+## 🐧 Administration système Linux
 
-### 🖥️ Technicien Informatique — Mairie des Mureaux (2020)
-- Installation et configuration de postes  
-- Déploiement de logiciels  
-- Support utilisateurs  
+- installation CentOS / Linux
+- gestion utilisateurs & permissions
+- services web Apache
+- configuration système
 
 ---
 
-## 🎯 Objectif professionnel
+# 💼 Expériences
 
-🎯 Intégrer une école d’ingénieur en informatique en alternance  
-🎯 Développer des compétences solides en développement et architecture logicielle  
-🎯 Contribuer à des projets concrets en entreprise  
+## 💻 Développeur Web — Easy Net Store
+📍 Poissy | 2026
+
+- développement de fonctionnalités web
+- maintenance applicative
+- intégration front-end
+- travail en équipe technique
+
+## 🖥️ Technicien Informatique — Mairie des Mureaux
+📍 Les Mureaux | 2020
+
+- installation de postes
+- déploiement logiciel
+- support utilisateurs
+- maintenance informatique
 
 ---
 
-## 🧠 Méthode de travail
+# 🎯 Objectif
+
+Mon objectif est d’évoluer vers un poste d’**ingénieur en cybersécurité / réseaux & systèmes**.
+
+Je souhaite développer une expertise solide en :
+
+- sécurité des infrastructures
+- architecture réseau
+- administration systèmes
+- développement sécurisé
+
+---
+
+# 📈 Méthode de travail
 
 ```bash
-analyser → concevoir → développer → tester → améliorer
+analyser → concevoir → développer → tester → sécuriser → améliorer
+```
+
+---
+
+# 📫 Me contacter
+
+📧 **marouane.youssoufi@outlook.fr**  
+🌐 **marouane-youssoufi.fr**  
+💼 **linkedin.com/in/marouane-youssoufii**
